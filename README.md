@@ -1,2 +1,2 @@
 # Classification-using-kNN-ML-algorithm
-IRIS data Classification Using kNN machine learning algorithm
+The objective of this program is to use K-Nearest Neighbor Supervised Machine learning algorithm to solve the famous IRIS classification problem.
